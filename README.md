@@ -13,4 +13,4 @@ There are already loads of discussions, prototypes, presentations, and examples 
 
 We are looking at setting up a new SIG around Keycloak and AI. At the moment this is just a proposal and the SIG has not be setup at this point, if you are interested in joining please add a comment to https://github.com/keycloak/keycloak-ai-sig/discussions/1.
 
-(logo.jpeg)
+![Keycloak AI SIG](logo.jpeg "Keycloak AI SIG")
